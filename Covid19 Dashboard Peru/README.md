@@ -2,8 +2,7 @@
 1. [Visión general del proyecto](#-visión-general-del-proyecto)
 2. [Capturas del dashboard](#-capturas-del-dashboard)
 3. [Explorar el dashboard en línea](#-explorar-el-dashboard-en-línea)
-4. [Fuentes y herramientas](#-fuentes-y-herramientas)
-5. [Hallazgos clave](#-hallazgos-clave)
+4. [Hallazgos clave](#-hallazgos-clave)
 
 ## 📌 Visión general del proyecto
 
@@ -42,19 +41,19 @@ Proporcionar una visión general y detallada de la situación del COVID-19 en el
 A continuación, se presentan vistas principales del tablero en el mismo orden que se muestran en Power BI:
 
 ### 1. Página de inicio
-![Página de inicio](Imágenes/Inicio.png)
+![Página de inicio](Imagenes/Inicio.png)
 
 ### 2. Positividad de casos
-![Positividad](Imágenes/Positividad.png)
+![Positividad](Imagenes/Positividad.png)
 
 ### 3. Hospitalizados
-![Hospitalizados](Imágenes/Hospitalizados.png)
+![Hospitalizados](Imagenes/Hospitalizados.png)
 
 ### 4. Disponibilidad de camas UCI
-![Disponibilidad](Imágenes/Disponibilidad.png)
+![Disponibilidad](Imagenes/Disponibilidad.png)
 
 ### 5. Defunciones por etapa de vida, sexo y grupo etario
-![Defunciones](Imágenes/Defunciones.png)
+![Defunciones](Imagenes/Defunciones.png)
 
 ## 🔗 Explorar el dashboard en línea
 
