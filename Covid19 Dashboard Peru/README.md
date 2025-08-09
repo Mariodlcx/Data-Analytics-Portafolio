@@ -41,19 +41,19 @@ Proporcionar una visión general y detallada de la situación del COVID-19 en el
 A continuación, se presentan vistas principales del tablero en el mismo orden que se muestran en Power BI:
 
 ### 1. Página de inicio
-![Página de inicio](Imagenes/Inicio.png)
+![Página de inicio](Imagenes/Inicio.PNG)
 
 ### 2. Positividad de casos
-![Positividad](Imagenes/Positividad.png)
+![Positividad](Imagenes/Positividad.PNG)
 
 ### 3. Hospitalizados
-![Hospitalizados](Imagenes/Hospitalizados.png)
+![Hospitalizados](Imagenes/Hospitalizados.PNG)
 
 ### 4. Disponibilidad de camas UCI
-![Disponibilidad](Imagenes/Disponibilidad.png)
+![Disponibilidad](Imagenes/Disponibilidad.PNG)
 
 ### 5. Defunciones por etapa de vida, sexo y grupo etario
-![Defunciones](Imagenes/Defunciones.png)
+![Defunciones](Imagenes/Defunciones.PNG)
 
 ## 🔗 Explorar el dashboard en línea
 
