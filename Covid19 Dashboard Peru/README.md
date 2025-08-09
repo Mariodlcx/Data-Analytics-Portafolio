@@ -1,6 +1,6 @@
 ## 📑 Contenido
 1. [Visión general del proyecto](#-visión-general-del-proyecto)
-2. [Capturas del dashboard](#capturas-del-dashboard)
+2. [Capturas del dashboard](#-capturas-del-dashboard)
 3. [Explorar el dashboard en línea](#-explorar-el-dashboard-en-línea)
 4. [Hallazgos clave](#-hallazgos-clave)
 
@@ -26,7 +26,7 @@ Proporcionar una visión general y detallada de la situación del COVID-19 en el
 - **Excel** (fuente principal de los datos)
 - **DAX** (cálculos de métricas y medidas personalizadas)
 
-## 📈 Contenido principal del dashboard
+## Contenido principal del dashboard
 
 **Principales métricas:**
 - **Total de Muestras:** 37,956,106
@@ -61,7 +61,7 @@ Puedes explorar el dashboard de manera interactiva directamente desde Power BI S
 
 > **Nota:** Si el enlace no se abre correctamente, revisa que estés usando un navegador compatible y que tengas conexión estable.
 
-**[Ver dashboard en línea](https://app.powerbi.com/view?r=eyJrIjoiOGNmMzk2ZWEtMzc3MC00ZWZlLTgwMDItZGU5NGY5MmVhYWFhIiwidCI6IjFlYmE0NDNmLTIzZTUtNDUzNC05MGQxLTA5NzZhYWJlODZhYyIsImMiOjR9)**
+**[Click aquí para ver el dashboar en línea](https://app.powerbi.com/view?r=eyJrIjoiOGNmMzk2ZWEtMzc3MC00ZWZlLTgwMDItZGU5NGY5MmVhYWFhIiwidCI6IjFlYmE0NDNmLTIzZTUtNDUzNC05MGQxLTA5NzZhYWJlODZhYyIsImMiOjR9)**
 
 ## 📌 Hallazgos clave
 
