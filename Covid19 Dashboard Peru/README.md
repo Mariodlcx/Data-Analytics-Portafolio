@@ -1,6 +1,6 @@
 ## 📑 Contenido
 1. [Visión general del proyecto](#-visión-general-del-proyecto)
-2. [Capturas del dashboard](#-capturas-del-dashboard)
+2. [Capturas del dashboard](#capturas-del-dashboard)
 3. [Explorar el dashboard en línea](#-explorar-el-dashboard-en-línea)
 4. [Hallazgos clave](#-hallazgos-clave)
 
