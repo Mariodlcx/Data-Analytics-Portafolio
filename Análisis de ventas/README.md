@@ -45,7 +45,7 @@ Incluye un resumen con la **cantidad de productos vendidos**, su distribución p
 
 ### 2. Ventas 
 Resumen ejecutivo con indicadores clave como costos, ventas, utilidad, márgenes y crecimiento de ventas.  
-![KPIs](Imagenes/Ventas.PNG)
+![Ventas](Imagenes/Ventas.PNG)
 
 ### 3. Proyección
 Permite simular el impacto de un descuento en las ventas y utilidad, mostrando la evolución temporal en un **gráfico comparativo de escenarios**.  
@@ -62,6 +62,7 @@ Ejemplo técnico sobre el uso de funciones DAX para comprender cómo afectan los
 ### 6 y 7. Ventas por canal – Mayor y Menor
 Muestra la distribución de las ventas entre el canal **mayorista** ($24,110,322 – 29.77%) y el canal **minorista** ($56,867,783 – 70.23%).  
 ![Mayor y Menor 1](Imagenes/MayorMenor1.PNG)
+
 ![Mayor y Menor 2](Imagenes/MayorMenor2.PNG)
 
 ### 8. Ventas por género
