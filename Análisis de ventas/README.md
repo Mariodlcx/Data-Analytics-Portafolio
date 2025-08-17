@@ -75,7 +75,7 @@ Puedes explorar el dashboard de manera interactiva directamente desde Power BI S
 
 > **Nota:** Si el enlace no se abre correctamente, revisa que estés usando un navegador compatible y que tengas conexión estable.
 
-**[Click aquí para ver el dashboard en línea](https://app.powerbi.com/view?r=eyJrIjoiMGUwNzcxNDYtYjYyYy00NjJhLTkwODEtODFhODlhNDAzYzQ2IiwidCI6IjFlYmE0NDNmLTIzZTUtNDUzNC05MGQxLTA5NzZhYWJlODZhYyIsImMiOjR9)**
+**[Click aquí para ver el dashboard en línea](https://app.powerbi.com/view?r=eyJrIjoiMTRmM2I4MDEtNjFjMi00YmNmLTg4ZDktZDc2MDE1N2IxMjdhIiwidCI6IjFlYmE0NDNmLTIzZTUtNDUzNC05MGQxLTA5NzZhYWJlODZhYyIsImMiOjR9)**
 
 ## 📌 Hallazgos clave
 
