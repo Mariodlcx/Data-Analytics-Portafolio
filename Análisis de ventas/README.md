@@ -84,5 +84,5 @@ Puedes explorar el dashboard de manera interactiva directamente desde Power BI S
 3. El producto más vendido es **“Long-Sleeve Logo Jersey, L”** (6,140 unidades), mientras que el menos vendido es **“LL Touring Frame - Yellow, 58”** (36 unidades).  
 4. La utilidad neta es relativamente baja (**$997,990**), lo que sugiere un margen muy ajustado (1.23%) pese al volumen de ventas.  
 5. La página de **Proyección** revela que pequeños descuentos pueden reducir drásticamente la utilidad, mostrando la sensibilidad del negocio frente a estas decisiones.  
-6. En el análisis por género, se observa un sesgo en la representación de las ventas femeninas (44.98%) frente a las masculinas (0.55%), aunque los datos parecen incompletos o con valores sin género asignado.  
+6. En el análisis por género, se observa una diferencia no muy significativa (menor al 5%) de las ventas femeninas (44.98%) frente a las masculinas (55.02%).  
 7. El módulo de **Filtros (ALL y ALLSELECTED)** es clave para entender cómo se comportan las medidas en diferentes contextos de segmentación.  
