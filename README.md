@@ -26,8 +26,8 @@ Cada carpeta incluye:
 
 Proyectos incluidos:
 1. **Covid19 Dashboard Perú** → Análisis de casos, hospitalizaciones y defunciones.
-2. *(Próximos proyectos se irán añadiendo aquí)*
-
+1. **Análisis de Ventas** → Exploración de ingresos, productos y desempeño comercial.
+3. *(Próximos proyectos se irán añadiendo aquí)*
 
 ---
 
