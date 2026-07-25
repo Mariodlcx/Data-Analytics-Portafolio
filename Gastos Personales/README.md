@@ -104,7 +104,8 @@ Estructura en formato de tabla de Excel que almacena la información consolidada
 
 ### 3. Matriz de Categorías Permitidas (`Categoria`)
 Tabla maestra independiente que sirve como catálogo para la validación de categorías.
-![Tabla Categoria](Imagenes/Categoria.png)
+
+<img src="Imagenes/Categoria.png" alt="Tabla Categoria" width="220">
 
 ### 4. Tablas Dinámicas (Backend)
 Matriz de soporte desde donde se extrae la información modelada en Power Pivot para alimentar cada gráfico.
